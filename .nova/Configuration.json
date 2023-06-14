@@ -1,11 +1,14 @@
 {
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
     "go",
-    "markdown"
+    "markdown",
+    "plaintext"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/brendanthompson\/Development\/personal\/adventofcode\/2022\/02\/main.go",
     "\/Users\/brendanthompson\/Development\/personal\/adventofcode\/2022\/01\/main.go",
-    "\/Users\/brendanthompson\/Development\/personal\/adventofcode\/2022\/01\/assignment.md"
+    "\/Users\/brendanthompson\/Development\/personal\/adventofcode\/2022\/02\/assignment.md",
+    "\/Users\/brendanthompson\/Development\/personal\/adventofcode\/2022\/02\/input"
   ],
   "editor.default_syntax" : "go",
   "workspace.art_style" : 0,
