@@ -1,0 +1,11 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "go run $1"
+    }
+  },
+  "arguments" : [
+    "${File}"
+  ]
+}
